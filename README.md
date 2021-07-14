@@ -3,7 +3,7 @@
 
 -  🌱 I’m addicted to learning and growing every day
 -  💻 I love science, math, programming, cybersecurity and books
--  🚀 I'm on the Avionics and Software Department of the Rocket Team at Kocaeli University
+-  🚀 I spend most of my time with Java Python and Linux
 
 
  ## Contact Me 
