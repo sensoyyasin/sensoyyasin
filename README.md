@@ -3,7 +3,7 @@
 
 -  🌱 I’m addicted to learning and growing every day
 -  💻 I love science, math, programming, cybersecurity and books
--  🚀 I spend most of  time with Java Python and Linux
+-  🚀 I spend most of  time with Java C and Linux
 
 
  ## Contact Me 
