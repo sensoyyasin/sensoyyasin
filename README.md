@@ -11,6 +11,18 @@
 <br />
 <br />
 
+  <!-- Centering something has never been easy, has it? -->
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img alt="Globe" height="80" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/globe.gif?raw=true">
+</a>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+</td>
+<td align="center">
+<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/new?template=Guestbook_entry.md">
+<strong>Sign my guest book</strong>
+<br />
+
 -  🌱 I’m addicted to learning and growing every day
 -  💻 I love science, math, programming, 42 and books
 -  🚀 I spend most of  time with Java C and Linux
