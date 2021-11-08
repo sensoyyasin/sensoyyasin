@@ -1,5 +1,22 @@
 ## Hi I'm Yasin Şensoy 
 
+<div align="center">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+  <img height="50" alt="My Name is Livio and I like Node.js" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/personal_note.svg" />
+  <br />
+  <br />
+
+ 
+ <table width="100%">
+<tr>
+<td align="center">
+<a href="https://www.yasinsensoy.com">
+<strong>Visit my personal website </strong>
+<br />
+<br />
+
 
 -  🌱 I’m addicted to learning and growing every day
 -  💻 I love science, math, programming, 42 and books
