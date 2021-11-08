@@ -4,8 +4,7 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   </div>
 
- 
- <table width="100%">
+<table width="50%">
 <tr>
 <td align="center">
 <a href="https://www.yasinsensoy.com">
