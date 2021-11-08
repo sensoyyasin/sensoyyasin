@@ -21,7 +21,7 @@
 <br />
 
 - 🌱 I’m addicted to learning and growing every day
--  💻 I love science, math, programming, 42 and books
+- 💻 I love science, math, programming, 42 and books
 - 🚀 I spend most of  time with Java C and Linux
   
  ## Contact Me 
