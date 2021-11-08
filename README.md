@@ -6,7 +6,7 @@
 <table width="100%">
 <tr>
 <td align="center">
-<a href="https://brunnerliv.io">
+<a href="yasinsensoy.com">
 <strong>Visit my personal website </strong>
 <br />
 <br />
