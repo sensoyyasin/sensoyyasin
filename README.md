@@ -3,6 +3,9 @@
  
   </div>
 
+-  🌱 I’m addicted to learning and growing every day
+-  💻 I love science, math, programming, 42 and books
+-  🚀 I spend most of  time with Java C and Linux
 <table width="50%">
 <tr>
 <td align="center">
@@ -10,11 +13,6 @@
 <strong>Visit my personal website </strong>
 <br />
 <br />
-
-
--  🌱 I’m addicted to learning and growing every day
--  💻 I love science, math, programming, 42 and books
--  🚀 I spend most of  time with Java C and Linux
 
 
  ## Contact Me 
