@@ -19,7 +19,6 @@
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 </td>
 <td align="center">
-<br />
 
 -  🌱 I’m addicted to learning and growing every day
 -  💻 I love science, math, programming, 42 and books
