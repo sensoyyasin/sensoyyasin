@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
  
-  </div>
-  <!-- Social -->
+</div>
+<!-- Social -->
 <table width="100%">
 <tr>
 <td align="center">
@@ -19,6 +19,7 @@
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 </td>
 <td align="center">
+<br />
 
 -  🌱 I’m addicted to learning and growing every day
 -  💻 I love science, math, programming, 42 and books
