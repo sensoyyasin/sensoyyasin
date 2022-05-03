@@ -1,4 +1,5 @@
-<a href="https://profile.intra.42.fr/users/ysensoy"><img width="48%"  alt="ysensoy's 42 stats"/></a>
+<a href="https://profile.intra.42.fr/users/ysensoy"><img width="48%" src="https://badge42.vercel.app/api/v2/cl2q5mchz001109jdu44dedey/stats?cursusId=21&coalitionId=undefined" alt="ysensoy's 42 stats"/></a>
+
 
 <div align="center">   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 
