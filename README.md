@@ -1,3 +1,6 @@
+<a href="https://profile.intra.42.fr/users/fkaya"><img width="48%" src="https://badge42.vercel.app/api/v2/cl2j3i6kt004509lkmorrrup4/stats?cursusId=21&coalitionId=undefined" alt="fkaya's 42 stats"/></a>
+  <a href="https://profile.intra.42.fr/users/fkaya"><img width="48%" src="https://badge42.vercel.app/api/v2/cl2j3i6kt004509lkmorrrup4/stats?cursusId=9&coalitionId=undefined" alt="fkaya's 42 stats" /></a>
+
 <div align="center">   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 
 </div> <!-- Social --> <table width="100%"> <tr> <td align="center"> <a href="https://www.yasinsensoy.com"> <strong>Visit my personal website </strong> <br /> <br />
