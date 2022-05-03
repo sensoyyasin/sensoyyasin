@@ -1,4 +1,4 @@
-
+<div align="center">   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
  <div align="center"> <img src = "https://badge42.vercel.app/api/v2/cl2q5mchz001109jdu44dedey/stats?cursusId=21&coalitionId=undefined" style="max-width: 100%;"
 </div> <!-- Social --> <table width="100%"> <tr> <td align="center"> <a href="https://www.yasinsensoy.com"> <strong>Visit my personal website </strong> <br /> <br />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
