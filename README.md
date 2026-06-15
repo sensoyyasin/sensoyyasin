@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sensoy Yasin 👋</h1>
 
-<p align="center"><strong>A passionate computer scientist</strong></p>
+<p align="center"><strong>Computer scientist focused on 3D vision and LiDAR processing</strong></p>
 
 ---
 
